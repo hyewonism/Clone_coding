@@ -1,0 +1,40 @@
+.red {
+  color: red;
+  background-color: yellow;
+  text-align: center;
+}
+
+.border-blue {
+  border: 1px solid blue;
+}
+
+.img-size {
+  height: 200px;
+  width: 200px;
+}
+
+.margin-space {
+  margin-top: 40px;
+  margin-left: 100px;
+  margin-bottom: 40px;
+}
+
+.padding-space {
+  padding-top: 40px;
+  padding-left: 50px;
+}
+
+.box {
+  width: 200px;
+  padding: 50px;
+  border: 50px solid red;
+  margin-bottom: 20px;
+}
+
+.green {
+  border: 50px solid green;
+}
+
+.blue {
+  border: 50px solid blue;
+}
